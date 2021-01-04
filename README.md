@@ -19,7 +19,7 @@ This program enables you to scrape zoom urls from mails in Outlook Mail applicat
         - Mail subject (TEXT)
         - Sender name (TEXT)
         - Sender email address (TEXT)
-        - URLs (https://     |https://     |.......) (TEXT)
+        - URLs (https://...zoom.us/....|https://...zoom.us/....|.......) (TEXT)
         - Numbers of URLs (INTEGER)
 
 - Delete rows whose URL is equal to the following URLs:
@@ -30,7 +30,7 @@ This program enables you to scrape zoom urls from mails in Outlook Mail applicat
 
 - Show the numbers of zoom URLs and a lump of URLs per mail like
     - {number} zoom url(S): 
-    - https://     |https://     |.......
+    - https://...zoom.us/....|https://...zoom.us/....|.......
     - 
     - similarly.....
 
